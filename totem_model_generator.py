@@ -89,7 +89,7 @@ def save_img(name: str) -> str:
 def update_meta(name, template_dir=TEMPLATE_DIR):
     meta_file = os.path.join(template_dir, 'pack.mcmeta')
     print('加载元数据中...')
-    meta = json.load(open(meta_file))
+    meta = json.load(open(meta_file, encoding='utf-8'))
     print('修改元数据中...')
     meta['pack']['description'] = f'§e不死图腾手办 for §b{name}'
     with open(meta_file, 'w', encoding='utf-8') as f:
