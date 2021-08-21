@@ -1,1 +1,34 @@
-{"pack": {"pack_format": 7, "description": "\u00a7e\u4e0d\u6b7b\u56fe\u817e\u624b\u529e for \u00a7bYzToad\n\u00a73\u8ba9\u4e0d\u6b7b\u56fe\u817e\u53d8\u6210YzToad\u7684\u624b\u529e"}, "author": ["YehowahLiu"], "special_thanks": {"Mcwzhmeme": [{"minecraft:bee": "The remix origin of this pack"}], "Addonscommandresource": [{"minecraft:trident": "The model in BE"}], "Blockbench": [{"minecraft:totem_of_undying": "Model"}, {"minecraft:brewing_stand": "Model"}], "Golden_eggs": [{"minecraft:gui/title/mojangstudios": "Fonts"}]}}
+{
+    "pack": {
+        "pack_format": 7,
+        "description": "§e不死图腾手办 for §bSteve"
+    },
+    "author": [
+        "YehowahLiu"
+    ],
+    "special_thanks": {
+        "Mcwzhmeme": [
+            {
+                "minecraft:bee": "The remix origin of this pack"
+            }
+        ],
+        "Addonscommandresource": [
+            {
+                "minecraft:trident": "The model in BE"
+            }
+        ],
+        "Blockbench": [
+            {
+                "minecraft:totem_of_undying": "Model"
+            },
+            {
+                "minecraft:brewing_stand": "Model"
+            }
+        ],
+        "Golden_eggs": [
+            {
+                "minecraft:gui/title/mojangstudios": "Fonts"
+            }
+        ]
+    }
+}
