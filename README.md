@@ -1,4 +1,4 @@
-# Auto totem model
+# Totem With Player Model
 
 > 从给定的玩家名称自动生成不死图腾材质包
 
