@@ -130,6 +130,8 @@ def full_generate_list(file):
         lines = f.readlines()
         for line in lines:
             name = line.strip().replace('\n', '')
+            if name.startswith('#'):
+                continue
             full_generate(name)
 
 
